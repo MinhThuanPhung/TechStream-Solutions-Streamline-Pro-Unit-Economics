@@ -6,7 +6,7 @@ TechStream Solutions has been operating for several years and has gathered signi
 ## Data resources
 The datasets are in the shared folder on Google Drive:
 https://drive.google.com/drive/folders/1qhOW9Y2orRXuzbX-kXEmuJ7TMQiRs2Uv?usp=drive_link
-## Goal
+## Goals
 By performing these calculations, TechStream Solutions aims to:
 
 Identify the profitability of acquiring and retaining customers.
@@ -17,8 +17,14 @@ This information will guide TechStream Solutions in refining their business stra
 By calculating the unit economics for Streamline Pro for the month of March 2023
 ## Unit economics
 CAC
+
 ARPU
+
 COGS
+
 Gross Margin
+
 LTV
+
 LTV / CAC
+
